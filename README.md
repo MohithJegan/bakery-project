@@ -18,8 +18,15 @@
 
 ## Project Structure
 ### /css
-- **style.css**
-- **contact.css**
+-	**about.css**
+-	**addproduct.css**
+-	**admin.css**
+-	**contact.css**
+-	**main.css**
+-	**menu.css**
+-	**operation.css**
+-	**updateproduct.css**
+
 
 ### /img
 - **carousel images**
