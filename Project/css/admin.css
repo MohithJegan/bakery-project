@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.card {
+    background-color: #f4e7d3;
+    border: 1px solid #8b5a2b;
+    border-radius: 15px;
+}
+.btn-warning {
+    background-color: #8b5a2b;
+    border-color: #8b5a2b;
+    color: #ffffff;
+}
+.btn-warning:hover {
+    background-color: #6b4421;
+    border-color: #6b4421;
+}
+.form-control {
+    border: 1px solid #8b5a2b;
+}
+.form-control:focus {
+    border-color: #8b5a2b;
+    box-shadow: 0 0 5px rgba(139, 90, 43, 0.5);
+}
+h3 {
+    color: #8b5a2b;
+}
+.text-danger {
+    color: #dc3545;
+}

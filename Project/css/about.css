@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+}
+h2, h3, h6 {
+    color: #8b5a2b;
+}
+p {
+    color: #5a5a5a;
+}
+.bg-custom {
+    background-color: #f4e7d3;
+}
+.border-custom {
+    border: 3px solid #8b5a2b !important;
+}
+.fact-box {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.fact-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(139, 90, 43, 0.2);
+}

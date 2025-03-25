@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect('localhost', 'root', '', 'bakery');
+$connect = mysqli_connect('localhost', 'root', 'root', 'bakery');
 
 if (!$connect) {
     echo 'Error Code: ' . mysqli_connect_errno();
